@@ -1,4 +1,7 @@
-# dragonballgeneratorapp
+# Generador de personajes de dragon ball
+
+## Ejemplo
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/86918208@N06/50012253753/in/dateposted-public/" title="Dragon Ball"><img src="https://live.staticflickr.com/65535/50012253753_03e1137cd6_k.jpg" width="1902" height="901" alt="Dragon Ball"></a>
 
 ## Project setup
 ```
